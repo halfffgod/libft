@@ -43,7 +43,7 @@ and the following additional functions, the instructions of which are in the sub
 • ft_putnbr_fd
 
 # THE BONUS PART
-here we must know what's linked list and implement the following functions in order to easily use our lists
+here we must know what's linked list and implement the following functions in order to easily use our lists:
 • ft_lstnew
 • ft_lstadd_front
 • ft_lstsize
